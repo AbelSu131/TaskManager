@@ -74,7 +74,7 @@
 
 //计算缩放
 - (CGFloat)calcScaleWithOffset:(CGFloat)offset {
-    return offset * 0.02f + 1.0f;
+    return offset * 0.05f + 1.0f;
 }
 
 //计算位移
